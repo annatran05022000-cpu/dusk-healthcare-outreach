@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Dusk Healthcare Outreach"
+theme = "custom"
+
+[params]
+  description = "Marketing and lead generation for healthcare providers: clinics, dentists, and medical practices."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
